@@ -1,0 +1,31 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+# Visual Studio 15
+VisualStudioVersion = 15.0.27413.0
+MinimumVisualStudioVersion = 10.0.40219.1
+Project("{8BC9CEB8-8B4A-11D0-8D11-00A0C91BC942}") = "MyOpenGlSuperBible", "MyOpenGlSuperBible\MyOpenGlSuperBible.vcxproj", "{66761CF8-5106-4D8B-9F49-FC480BA8A5BA}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|x64 = Debug|x64
+		Debug|x86 = Debug|x86
+		Release|x64 = Release|x64
+		Release|x86 = Release|x86
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{66761CF8-5106-4D8B-9F49-FC480BA8A5BA}.Debug|x64.ActiveCfg = Debug|x64
+		{66761CF8-5106-4D8B-9F49-FC480BA8A5BA}.Debug|x64.Build.0 = Debug|x64
+		{66761CF8-5106-4D8B-9F49-FC480BA8A5BA}.Debug|x86.ActiveCfg = Debug|Win32
+		{66761CF8-5106-4D8B-9F49-FC480BA8A5BA}.Debug|x86.Build.0 = Debug|Win32
+		{66761CF8-5106-4D8B-9F49-FC480BA8A5BA}.Release|x64.ActiveCfg = Release|x64
+		{66761CF8-5106-4D8B-9F49-FC480BA8A5BA}.Release|x64.Build.0 = Release|x64
+		{66761CF8-5106-4D8B-9F49-FC480BA8A5BA}.Release|x86.ActiveCfg = Release|Win32
+		{66761CF8-5106-4D8B-9F49-FC480BA8A5BA}.Release|x86.Build.0 = Release|Win32
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+	GlobalSection(ExtensibilityGlobals) = postSolution
+		SolutionGuid = {66185897-B83E-4445-8B4D-D6F89A7E2E44}
+	EndGlobalSection
+EndGlobal
